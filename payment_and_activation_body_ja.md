@@ -1,0 +1,29 @@
+# Success! Your payment is complete. 
+You are now a Premium Member on [wtfast.com](https://wtfast.com)
+
+Here are the details of your transaction:
+
+* **Amount:** $ {0} USD
+* **Account Type:** {1}
+* **Membership Type:** {2}
+* **Max. Devices:** {3}
+
+You have **{4} days** of Premium Membership time available.  
+
+**Click this link to start using your Premium time and confirm your email:**
+
+{5}
+
+You can download the *wtfast* software here:
+{6}
+
+**Note**: Current and past charges are non-refundable. For more information on our Refund and Cancellation Policy, [see this article on our Support Center](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+
+Thank you for your business, and happy gaming!
+ 
+-Team *wtfast*
+
+# 成功！支払いが完了しました。あなたは現在、[wtfast.com](https://wtfast.com)のプレミアム会員です。処理内容は次の通りです:*
+**合計金額:** $ {0} USD* **アカウントタイプ:** {1}* **会員タイプ:** {2}* ** 最大デバイス数:** {3}あなたのプレミアム会員有効期間は **{4} 日間です。
+**こちらのリンクをクリックしてプレミアム期間をスタートし、メールアドレスの確認を行ってください:**{5}こちらから*wtfast*のソフトウェアがダウンロード可能です:{6}**注意**:
+現在及び過去の料金は返金不可です。返金とキャンセルに関するポリシーの詳細は、[サポートセンターのこちらの記事をご確認ください。](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)ご登録いただきありがとうございます。引き続きゲームをお楽しみください。 -Team *wtfast*
