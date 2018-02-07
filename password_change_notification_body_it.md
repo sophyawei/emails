@@ -1,0 +1,3 @@
+# Successo! Hai cambiato la password per {0} con successo.Se hai eseguito tu questo cambiamento, non è richiesta alcuna azione ulteriore e puoi tranquillamente ignorare questo messaggio.Non hai cambiato la password? Contatta il nostro [**Team di Supporto**](http://support.wtfast.com) così che possiamo essere sicuri che nessun altro stia tentando di accedere al tuo account: [http://support.wtfast.com](http://support.wtfast.com)
+
+-Il team *wtfast*
