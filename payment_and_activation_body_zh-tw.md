@@ -1,21 +1,22 @@
-# ���\�F�I�A���I�ڤw�����C  �A�{�b�O [wtfast.com](https://wtfast.com) �����ŷ|��
+# 成功了！你的付款已完成。  
 
-�o�̦��A������ԲӸ�ơG  * **���B�G** $ {0} ����
-* **�b�������G** {1}
-* **�|�������G** {2}
-* **�̤j�˸m�ơG** {3}
+你現在是 [wtfast.com](https://wtfast.com) 的高級會員
 
-�A�i�H�ɥ� **{4} ��** �����ŷ|���ɶ��C  
+這裡有你交易的詳細資料：  
 
-**�I���o�ӳs���H�}�l�ϥΧA�����ŮɼƨýT�{�A���q�l�l��G**
+* **金額：** $ {0} 美元
+* **帳號種類：** {1}
+* **會員種類：** {2}
+* **最大裝置數：** {3}
 
-{5}
+你可以享用 **{4} 天** 的高級會員時間。  
 
-�A�i�H�q�o�̤U�� *wtfast* �n��G
-{6}
+**點擊這個連結以開始使用你的高級時數並確認你的電子郵件：** {5}
 
-**�Ъ`�N**: �ثe�ιL�������O�������i�h�O�C�Y�Q���D��h����ڭ̰h�O�Ψ����F������T�A[�Ьݦb�ڭ̤䴩���ߤW���o�g�峹](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)�C
+你可以從這裡下載 *wtfast* 軟體：{6}
 
-�P�§A�f�U�ͷN�A���A�C���r�֡I
+**請注意**: 目前及過往的收費均為不可退費。若想知道更多關於我們退費及取消政策的資訊，[請看在我們支援中心上的這篇文章](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)。
+
+感謝你惠顧生意，祝你遊戲愉快！
  
-- *wtfast*�ζ�
+-*wtfast*團隊
