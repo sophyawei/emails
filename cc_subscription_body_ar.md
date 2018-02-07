@@ -1,0 +1,2 @@
+
+# הÇÌÍ! ÚבםÉ ÇבÏÝÚ ÞÏ Ç‗ÊדבÊ.  ÃהÊ ÇבÂה ÚÖז דדםÒ Ýם *wtfast*! Åבם‗ ÊÝÇÕםב ÚדבםÉ ÇבÈØÇÞÉ ÇבÅÆÊדÇהםÉ ÇבÎÇÕÉ È‗: * **ÇבדÈבÛ:** $ {0} ÏזבÇÑ* **הזÚ ÇבÍÓÇÈ:** *{1} **הזÚ ÇבÚÖזםÉ:** {2}* **ÃÞÕל ÚÏÏ דה ÇבÃÌוÒÉ:** {3}בÏם‗ **{4} ÃםÇד** דÊÇÍÉ בבÚÖזםÉ ÇבדדםÒÉ. םד‗ה‗ ÊהÒםב ÃÍÏË הÓÎÉ דה wtfast והÇ: [https://www.wtfast.com/download] (https://www.wtfast.com/download) דה ÃÌב ÊÍÏםË ÍÓÇÈ‗ Ãז דÔÇוÏÉ ÓÌב דÏÝזÚÇÊ‗¡ Þד ÝÞØ [ÈÊÓÌב ÇבÏÎזב Åבל ÍÓÇÈ‗] (https://secure.wtfast.com/member/Account/Login) . **דבÇÍÙÉ**: ÇבדÈÇבÛ ÇבÍÇבÉ זÇבÓÇÈÞÉ בÇ םד‗ה ÇÓÊÑÏÇÏוÇ. בדÒםÏ דה ÇבדÚבזדÇÊ¡ ÇÞÑÃ ÇבדÞÇב ÇבדזÌזÏ Úבל [דÑ‗Ò ÇבÏÚד] (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-). Ô‗ÑÇנ ב‗ Úבל ÊÚÇדב‗ דÚהÇ זÇÓÊדÊÚ ÈÇבבÚÈ! ÝÑםÞ - *wtfast*
