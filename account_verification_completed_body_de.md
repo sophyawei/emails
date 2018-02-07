@@ -8,4 +8,4 @@ Besuche einfach unser [**Support Center**](http://support.wtfast.com), wenn Du H
 
 Viel Spaß beim Gamen!
 
-- Das Team *wtfast*
+-Das Team *wtfast*
