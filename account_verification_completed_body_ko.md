@@ -2,7 +2,7 @@
 
 귀하의 *wtfast* 로그인은: {0}
 
-프리미엄 멤버십으로 업그레이드 하시거나, 계정 히스토리를 보거나, 패스워드를 재설정 하기 위해서는 [** 귀하의 *wtfast* 계정에 로그인 하세요**](https://secure.wtfast.com/member/Account/Login).
+프리미엄 멤버십으로 업그레이드 하시거나, 계정 히스토리를 보거나, 패스워드를 재설정 하기 위해서는 [**귀하의 *wtfast* 계정에 로그인 하세요**](https://secure.wtfast.com/member/Account/Login).
 
 도움이 필요하시다면, 저희 [**서포트 센터**](http://support.wtfast.com)를 방문해 주세요. 여러분을 도울 수 있다면 저희는 언제나 행복하답니다!
 
