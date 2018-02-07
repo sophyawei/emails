@@ -1,7 +1,7 @@
-# Réussi !
-Le paiement de votre abonnement premium wtfast.com est terminé.
+# RÃ©ussi !
+Le paiement de votre abonnement premium wtfast.com est terminÃ©.
 
-Voici les détails de votre transaction :
+Voici les dÃ©tails de votre transaction :
 
 * **Montant :** {0} $ US
 * **Type de compte :** {1}
@@ -10,8 +10,8 @@ Voici les détails de votre transaction :
 
 Vous avez **{4} jours** d'abonnement premium disponibles.
 
-**Note :** les frais actuels et passés ne sont pas remboursables. Pour plus d'informations sur notre politique de remboursement et d'annulation, [lisez cet article sur notre centre d'assistance] (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+**Note :** les frais actuels et passÃ©s ne sont pas remboursables. Pour plus d'informations sur notre politique de remboursement et d'annulation, [lisez cet article sur notre centre d'assistance] (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
 
 Merci encore pour votre confiance, et bon jeu !
- 
--L'équipe *wtfast*
+
+-L'Ã©quipe *wtfast*
