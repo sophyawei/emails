@@ -1,5 +1,5 @@
 # Successo! 
-Il pagamento del tuo Abbonamento Premium a wtfast.com è completo. Ecco i dettagli della tua transazione:
+Il pagamento del tuo Abbonamento Premium a wtfast.com Ã¨ completo. Ecco i dettagli della tua transazione:
 
 * **Importo:** $ {0} USD
 * **Tipo di Conto:** {1}
