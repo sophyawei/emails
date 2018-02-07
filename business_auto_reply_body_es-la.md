@@ -1,4 +1,4 @@
-﻿# ¡Hola!
+# ¡Hola!
 
 Gracias por su interés en *wtfast*; ¡la herramienta de optimización de red líder en el mundo! Las consultas comerciales y de socios generalmente reciben respuesta en un plazo de 24 horas.
 
