@@ -1,5 +1,5 @@
 # Berhasil! 
-Pembayaran Keanggotaan Premium wtfast.com Anda berhasil. 
+Pembayaran Keanggotaan Premium wtfast.com Anda berhasil.
 
 Berikut ini detail transaksi Anda:
 
