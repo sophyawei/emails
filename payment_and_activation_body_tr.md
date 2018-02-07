@@ -15,7 +15,7 @@ Premium üyelik süresinin **{4} gün** mevcut gününe sahipsiniz.
 
 *wtfast* yazýlýmýný buradan indirebilirsiniz: {6}
 
-**Not**: Geçerli ve geçmiþ masraflar iade edilmez. Geri Ödeme ve Ýptal Politikamýz hakkýnda daha fazla bilgi için [Destek Merkezimizdeki bu makaleye bakýn] (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Defund-and-Cancellation-Policy-).
+**Not**: Geçerli ve geçmiþ masraflar iade edilmez. Geri Ödeme ve Ýptal Politikamýz hakkýnda daha fazla bilgi için [Destek Merkezimizdeki bu makaleye bakýn](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Defund-and-Cancellation-Policy-).
 
 Ýþiniz ve mutlu oyunlarýnýz için teþekkür ederiz!
  
