@@ -1,0 +1,3 @@
+﻿# Ci siamo quasi...Fai clic su questo link per attivare il tuo account * wtfast *:{0}Dopo aver attivato il tuo account, puoi scaricare il software client qui:
+
+{1}Qualora il suddetto collegamento non funzionasse, prova a copiare (CTRL + C) e incollare (CTRL + V) l'intero link nella barra degli indirizzi del browser. Assicurati che il codice di attivazione contenga 32 caratteri in lettere o numeri (nessun carattere speciale, come la punteggiatura o gli spazi). Se avessi bisogno di assistenza, il mio team di supporto è sempre felice di aiutarti: [http://support.wtfast.com] (http://support.wtfast.com)Grazie per aver scelto wtfast - siamo lieti di poterti aiutare PWN!** Rob Bartlett **CEO e fondatore di * wtfast *
