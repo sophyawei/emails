@@ -1,18 +1,17 @@
-# Başarılı! 
-wtfast.com Premium Üyeliği ödemen tamamlandı.
+# BaÅŸarÄ±lÄ±! 
+wtfast.com Premium ÃœyeliÄŸi Ã¶demen tamamlandÄ±.
 
-İşte işlem ayrıtılarınız:
+Ä°ÅŸte iÅŸlem ayrÄ±tÄ±larÄ±nÄ±z:
 
 * **Miktar:** $ {0} USD   
-* **Hesap Türü:** {1}   
-* **Üyelik Türü:** {2}   
+* **Hesap TÃ¼rÃ¼:** {1}   
+* **Ãœyelik TÃ¼rÃ¼:** {2}   
 * **Maksimum Cihaz:** {3}   
 
-**{4} days** Premium Üyelik süreniz mevcut.  
+**{4} days** Premium Ãœyelik sÃ¼reniz mevcut.  
 
-**Not:** Şimdiki ve geçmiş masraflar iade edilemez. Geri Ödeme ve İptal Politikamız hakkında daha fazla bilgi için, [bu makaleyi Destek Merkezimizde okuyun](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).   
+**Not:** Åimdiki ve geÃ§miÅŸ masraflar iade edilemez. Geri Ã–deme ve Ä°ptal PolitikamÄ±z hakkÄ±nda daha fazla bilgi iÃ§in, [bu makaleyi Destek Merkezimizde okuyun](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).   
 
-Devamlı faaliyetiniz için tekrar teşekkürler, ve mutlu oyunlar!
+DevamlÄ± faaliyetiniz iÃ§in tekrar teÅŸekkÃ¼rler, ve mutlu oyunlar!
  
 -*wtfast* Ekibi
-
