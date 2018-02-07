@@ -1,6 +1,6 @@
 # Baþarý! Ödemeniz tamamlandý.
 
-Þu anda [wtfast.com] üzerinde bir Premium Üyesisiniz (https://wtfast.com)
+Þu anda [wtfast.com](https://wtfast.com) üzerinde bir Premium Üyesisiniz 
 
 Ýþleminizin ayrýntýlarý:
 
