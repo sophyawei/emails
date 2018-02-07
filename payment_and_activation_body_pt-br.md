@@ -22,10 +22,3 @@ Você pode baixar o aplicativo *wtfast* aqui:
 Obrigado pelo seu apoio, e bons jogos!
  
 -Equipe *wtfast*
-
-
-
-
-
-
-
