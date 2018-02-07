@@ -1,5 +1,7 @@
-# racias por verificar tu direcci髇 de correo electr髇ico! Tu inicio de sesi髇 en *wtfast* es: {0}
+# 隆Gracias por verificar tu direcci贸n de correo electr贸nico! 
 
-[**Inicia sesi髇 con tu cuenta de *wtfast* **](https://secure.wtfast.com/member/Account/Login) para convertirte en miembro pr閙ium, ver tu historial de la cuenta o restablecer tu contrase馻. Si necesitas ayuda, visita nuestro [**centro de soporte t閏nico**](http://support.wtfast.com). os alegra ayudar! eliz partida!
+Tu inicio de sesi贸n en *wtfast* es: {0}
+
+[**Inicia sesi贸n con tu cuenta de *wtfast* **](https://secure.wtfast.com/member/Account/Login) para convertirte en miembro pr茅mium, ver tu historial de la cuenta o restablecer tu contrase帽a. Si necesitas ayuda, visita nuestro [**centro de soporte t茅cnico**](http://support.wtfast.com). 隆Nos alegra ayudar! 隆Feliz partida!
 
 -El equipo de *wtfast*
