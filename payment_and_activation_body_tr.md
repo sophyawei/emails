@@ -1,49 +1,22 @@
-# Success! Your payment is complete. 
-You are now a Premium Member on [wtfast.com](https://wtfast.com)
+# BaÃ¾arÃ½! Ã–demeniz tamamlandÃ½.
 
-Here are the details of your transaction:
+Ãu anda [wtfast.com] Ã¼zerinde bir Premium Ãœyesisiniz (https://wtfast.com)
 
-* **Amount:** $ {0} USD
-* **Account Type:** {1}
-* **Membership Type:** {2}
-* **Max. Devices:** {3}
+ÃÃ¾leminizin ayrÃ½ntÃ½larÃ½:
 
-You have **{4} days** of Premium Membership time available.  
+* **Miktar:** $ {0} USD
+* **Hesap TÃ¼rÃ¼:** {1}
+* **Ãœyelik TÃ¼rÃ¼:** {2}
+* **Max. Cihazlar:** {3}
 
-**Click this link to start using your Premium time and confirm your email:**
+Premium Ã¼yelik sÃ¼resinin **{4} gÃ¼n** mevcut gÃ¼nÃ¼ne sahipsiniz.
 
-{5}
+**Premium saatinizi kullanmaya baÃ¾lamak ve e-postanÃ½zÃ½ onaylamak iÃ§in bu baÃ°lantÃ½ya tÃ½klayÃ½n:** {5}
 
-You can download the *wtfast* software here:
-{6}
+*wtfast* yazÃ½lÃ½mÃ½nÃ½ buradan indirebilirsiniz: {6}
 
-**Note**: Current and past charges are non-refundable. For more information on our Refund and Cancellation Policy, [see this article on our Support Center](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+**Not**: GeÃ§erli ve geÃ§miÃ¾ masraflar iade edilmez. Geri Ã–deme ve Ãptal PolitikamÃ½z hakkÃ½nda daha fazla bilgi iÃ§in [Destek Merkezimizdeki bu makaleye bakÃ½n] (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Defund-and-Cancellation-Policy-).
 
-Thank you for your business, and happy gaming!
+ÃÃ¾iniz ve mutlu oyunlarÃ½nÃ½z iÃ§in teÃ¾ekkÃ¼r ederiz!
  
--Team *wtfast*
-
-Başarı! Ödemeniz tamamlandı.
-Şu anda [wtfast.com] üzerinde bir Premium Üyesisiniz (https://wtfast.com)
-
-İşleminizin ayrıntıları:
-
-* ** Miktar: ** $ {0} USD
-* ** Hesap Türü: ** {1}
-* ** Üyelik Türü: ** {2}
-* ** Max. Cihazlar: ** {3}
-
-Premium üyelik süresinin **{4} gün ** mevcut gününe sahipsiniz.
-
-** Premium saatinizi kullanmaya başlamak ve e-postanızı onaylamak için bu bağlantıya tıklayın: **
-
-{5}
-
-*wtfast* yazılımını buradan indirebilirsiniz:
-{6}
-
-**Not**: Geçerli ve geçmiş masraflar iade edilmez. Geri Ödeme ve İptal Politikamız hakkında daha fazla bilgi için [Destek Merkezimizdeki bu makaleye bakın] (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Defund-and-Cancellation-Policy-).
-
-İşiniz ve mutlu oyunlarınız için teşekkür ederiz!
- 
--Takım *wtfast*
+-TakÃ½m *wtfast*
