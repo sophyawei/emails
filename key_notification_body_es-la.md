@@ -1,4 +1,5 @@
 # ¡Felicitaciones! 
+
 Hemos activado la clave {0} para tu cuenta [wtfast.com](https://wtfast.com). 
 
 Tu estado actual: 
