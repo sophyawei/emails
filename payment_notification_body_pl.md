@@ -1,15 +1,18 @@
-# Sukces! Pañstwa p³atnoœæ za cz³onkostwo klasy 
-Premium w portalu wtfast.com. 
+# Sukces! 
 
-Oto szczegó³owe informacje o Pañstwa transakcji:
+PaÅ„stwa pÅ‚atnoÅ›Ä‡ za czÅ‚onkostwo klasy Premium w portalu wtfast.com. 
+
+Oto szczegÃ³Å‚owe informacje o PaÅ„stwa transakcji:
 
 * **Kwota:** $ {0} USD
 * **Rodzaj konta:** {1}
-* **Rodzaj cz³onkostwa:** {2}
-* **Maks. liczba urz¹dzeñ:** {3}Dostêpnych jest dla Pañstwa **{4} dni** okresu cz³onkostwa klasy Premium.  
+* **Rodzaj czÅ‚onkostwa:** {2}
+* **Maks. liczba urzÄ…dzeÅ„:** {3}
 
-**Uwaga:** Obecne i przesz³e op³aty s¹ bezzwrotne. Wiêcej informacji na temat naszej polityki zwrotów i anulacji, [znajd¹ Pañstwo w tym artykule w naszym Centrum Wsparcia](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+DostÄ™pnych jest dla PaÅ„stwa **{4} dni** okresu czÅ‚onkostwa klasy Premium.  
 
-Ponownie dziêkujemy za Pañstwa dalsze korzystanie z naszych us³ug i udanej gry!
+**Uwaga:** Obecne i przeszÅ‚e opÅ‚aty sÄ… bezzwrotne. WiÄ™cej informacji na temat naszej polityki zwrotÃ³w i anulacji, [znajdÄ… PaÅ„stwo w tym artykule w naszym Centrum Wsparcia](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+
+Ponownie dziÄ™kujemy za PaÅ„stwa dalsze korzystanie z naszych usÅ‚ug i udanej gry!
  
-- Zespó³ portalu *wtfast*
+-ZespÃ³Å‚ portalu *wtfast*
