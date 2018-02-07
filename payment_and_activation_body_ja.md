@@ -1,29 +1,22 @@
-# Success! Your payment is complete. 
-You are now a Premium Member on [wtfast.com](https://wtfast.com)
+# æˆåŠŸï¼æ”¯æ‰•ã„ãŒå®Œäº†ã—ã¾ã—ãŸã€‚
 
-Here are the details of your transaction:
+ã‚ãªãŸã¯ç¾åœ¨ã€[wtfast.com](https://wtfast.com)ã®ãƒ—ãƒ¬ãƒŸã‚¢ãƒ ä¼šå“¡ã§ã™ã€‚
 
-* **Amount:** $ {0} USD
-* **Account Type:** {1}
-* **Membership Type:** {2}
-* **Max. Devices:** {3}
+å‡¦ç†å†…å®¹ã¯æ¬¡ã®é€šã‚Šã§ã™:
 
-You have **{4} days** of Premium Membership time available.  
+* **åˆè¨ˆé‡‘é¡:** $ {0} USD
+* **ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã‚¿ã‚¤ãƒ—:** {1}
+* **ä¼šå“¡ã‚¿ã‚¤ãƒ—:** {2}
+* ** æœ€å¤§ãƒ‡ãƒã‚¤ã‚¹æ•°:** {3}
 
-**Click this link to start using your Premium time and confirm your email:**
+ã‚ãªãŸã®ãƒ—ãƒ¬ãƒŸã‚¢ãƒ ä¼šå“¡æœ‰åŠ¹æœŸé–“ã¯ **{4} æ—¥é–“ã§ã™ã€‚
 
-{5}
+**ã“ã¡ã‚‰ã®ãƒªãƒ³ã‚¯ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãƒ—ãƒ¬ãƒŸã‚¢ãƒ æœŸé–“ã‚’ã‚¹ã‚¿ãƒ¼ãƒˆã—ã€ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã®ç¢ºèªã‚’è¡Œã£ã¦ãã ã•ã„:** {5}
 
-You can download the *wtfast* software here:
-{6}
+ã“ã¡ã‚‰ã‹ã‚‰*wtfast*ã®ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ãŒãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰å¯èƒ½ã§ã™: {6}
 
-**Note**: Current and past charges are non-refundable. For more information on our Refund and Cancellation Policy, [see this article on our Support Center](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+**æ³¨æ„**: ç¾åœ¨åŠã³éå»ã®æ–™é‡‘ã¯è¿”é‡‘ä¸å¯ã§ã™ã€‚è¿”é‡‘ã¨ã‚­ãƒ£ãƒ³ã‚»ãƒ«ã«é–¢ã™ã‚‹ãƒãƒªã‚·ãƒ¼ã®è©³ç´°ã¯ã€[ã‚µãƒãƒ¼ãƒˆã‚»ãƒ³ã‚¿ãƒ¼ã®ã“ã¡ã‚‰ã®è¨˜äº‹ã‚’ã”ç¢ºèªãã ã•ã„ã€‚](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)ã”ç™»éŒ²ã„ãŸã ãã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚
 
-Thank you for your business, and happy gaming!
- 
+å¼•ãç¶šãã‚²ãƒ¼ãƒ ã‚’ãŠæ¥½ã—ã¿ãã ã•ã„ã€‚ 
+
 -Team *wtfast*
-
-# ¬Œ÷Ix•¥‚¢‚ªŠ®—¹‚µ‚Ü‚µ‚½B‚ ‚È‚½‚ÍŒ»İA[wtfast.com](https://wtfast.com)‚ÌƒvƒŒƒ~ƒAƒ€‰ïˆõ‚Å‚·Bˆ—“à—e‚ÍŸ‚Ì’Ê‚è‚Å‚·:*
-**‡Œv‹àŠz:** $ {0} USD* **ƒAƒJƒEƒ“ƒgƒ^ƒCƒv:** {1}* **‰ïˆõƒ^ƒCƒv:** {2}* ** Å‘åƒfƒoƒCƒX”:** {3}‚ ‚È‚½‚ÌƒvƒŒƒ~ƒAƒ€‰ïˆõ—LŒøŠúŠÔ‚Í **{4} “úŠÔ‚Å‚·B
-**‚±‚¿‚ç‚ÌƒŠƒ“ƒN‚ğƒNƒŠƒbƒN‚µ‚ÄƒvƒŒƒ~ƒAƒ€ŠúŠÔ‚ğƒXƒ^[ƒg‚µAƒ[ƒ‹ƒAƒhƒŒƒX‚ÌŠm”F‚ğs‚Á‚Ä‚­‚¾‚³‚¢:**{5}‚±‚¿‚ç‚©‚ç*wtfast*‚Ìƒ\ƒtƒgƒEƒFƒA‚ªƒ_ƒEƒ“ƒ[ƒh‰Â”\‚Å‚·:{6}**’ˆÓ**:
-Œ»İ‹y‚Ñ‰ß‹‚Ì—¿‹à‚Í•Ô‹à•s‰Â‚Å‚·B•Ô‹à‚ÆƒLƒƒƒ“ƒZƒ‹‚ÉŠÖ‚·‚éƒ|ƒŠƒV[‚ÌÚ×‚ÍA[ƒTƒ|[ƒgƒZƒ“ƒ^[‚Ì‚±‚¿‚ç‚Ì‹L–‚ğ‚²Šm”F‚­‚¾‚³‚¢B](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)‚²“o˜^‚¢‚½‚¾‚«‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·Bˆø‚«‘±‚«ƒQ[ƒ€‚ğ‚¨Šy‚µ‚İ‚­‚¾‚³‚¢B -Team *wtfast*
