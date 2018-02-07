@@ -18,7 +18,7 @@ Anda memiliki  **{4} hari** waktu Keanggotaan Premium yang tersedia.
 Anda dapat mengunduh software *wtfast* di sini:
 {6}
 
-**Catatan**: Biaya saat ini dan yang lalu tidak dapat dikembalikan. Untuk informasi lebih lanjut mengenai Kebijakan Pengembalian dan Pembatalan Kami, [lihat artikel ini di Pusat Dukungan]kami(https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+**Catatan**: Biaya saat ini dan yang lalu tidak dapat dikembalikan. Untuk informasi lebih lanjut mengenai Kebijakan Pengembalian dan Pembatalan Kami, [lihat artikel ini di Pusat Dukungan](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-) kami.
 
 Terima kasih untuk transaksi Anda dan selamat bermain!
  
