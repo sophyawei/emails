@@ -14,4 +14,4 @@ Danke!
 
 **Rob Bartlett**
 
-CEO & Gründer von *wtfast*
+CEO & Gründer von *wtfast* 
