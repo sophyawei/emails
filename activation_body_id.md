@@ -14,4 +14,4 @@ Terima kasih!
 
 **Rob Bartlett**
 
-Direktur Utama & Pendiri *wtfast*
+Direktur Utama & Pendiri *wtfast* 
