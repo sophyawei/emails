@@ -1,35 +1,17 @@
-# Almost there...
+# Neredeyse...
 
-Click this link to activate your *wtfast* account:
+*wtfast* hesabÃ½nÃ½zÃ½ etkinleÃ¾tirmek iÃ§in bu baÃ°lantÃ½ya tÃ½klayÃ½n:
 
 {0}
 
-If the link above doesn't work, try copying (CTRL+C) and pasting (CTRL+V) the entire link into your browser's address bar. 
+YukarÃ½daki baÃ°lantÃ½ Ã§alÃ½Ã¾mazsa, tÃ¼m baÃ°lantÃ½yÃ½ tarayÃ½cÃ½nÃ½zÃ½n adres Ã§ubuÃ°una (CTRL + C)  ile kopyalamayÃ½ ve (CTRL + V) ile yapÃ½Ã¾tÃ½rmayÃ½ deneyin.
 
-Make sure the activation code contains 32 letter or number characters (no special characters, like punctuation or spaces.)
+EtkinleÃ¾tirme kodunun 32 harf veya sayÃ½ karakteri iÃ§erdiÃ°inden emin olun (noktalama iÃ¾aretleri veya boÃ¾luklar gibi Ã¶zel karakterler bulunmamalÃ½dÃ½r.)
 
-If you need assistance, my [Support Team](http://support.wtfast.com) is always happy to help you.
+YardÃ½ma ihtiyacÃ½nÃ½z olursa, [Destek Ekibi]m(http://support.wtfast.com) size her zaman size yardÃ½m etmekten mutlu olur.
 
-Thanks!
+TeÃ¾ekkÃ¼rler!
 
 **Rob Bartlett**
 
-CEO & Founder of *wtfast*
-
-# Neredeyse...
-
-* Wtfast * hesabınızı etkinleştirmek için bu bağlantıya tıklayın:
-
-{0}
-
-Yukarıdaki bağlantı çalışmazsa, tüm bağlantıyı tarayıcınızın adres çubuğuna (CTRL + C)  ile kopyalamayı ve (CTRL + V) ile yapıştırmayı deneyin.
-
-Etkinleştirme kodunun 32 harf veya sayı karakteri içerdiğinden emin olun (noktalama işaretleri veya boşluklar gibi özel karakterler bulunmamalıdır.)
-
-Yardıma ihtiyacınız olursa, [Destek Ekibi]m(http://support.wtfast.com) size her zaman size yardım etmekten mutlu olur.
-
-Teşekkürler!
-
-** Rob Bartlett **
-
-CEO  *wtfast*ın kurucusu 
+CEO  *wtfast* Ã½n kurucusu 
