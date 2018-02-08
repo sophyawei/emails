@@ -1,1 +1,15 @@
-# Prawie gotowe...Klknij tutaj, aby aktywowaæ konto na *wtfast*:{0}Jeœli powy¿szy link nie dzia³a, skopiuj go w ca³oœci (CTRL+C) i wklej (CTRL+V) do wyszukiwarki. Upewnij siê, ¿e kod aktywacyjny sk³ada siê z 32 liter lub cyfr (bez znaków specjalnych, takich jak interpunkcja lub spacje). Jeœli potrzebujesz pomocy, nasz [Dzia³ Wsparcia] (http://support.wtfast.com) jest zawsze do us³ug.Dziêkujê!**Rob Bartlett**Za³o¿yciel i administrator *wtfast*
+# Prawie gotowe...
+
+Klknij tutaj, aby aktywowaÄ‡ konto na *wtfast*:
+
+{0}
+
+JeÅ›li powyÅ¼szy link nie dziaÅ‚a, skopiuj go w caÅ‚oÅ›ci (CTRL+C) i wklej (CTRL+V) do wyszukiwarki. Upewnij siÄ™, Å¼e kod aktywacyjny skÅ‚ada siÄ™ z 32 liter lub cyfr (bez znakÃ³w specjalnych, takich jak interpunkcja lub spacje). 
+
+JeÅ›li potrzebujesz pomocy, nasz [DziaÅ‚ Wsparcia](http://support.wtfast.com) jest zawsze do usÅ‚ug.
+
+DziÄ™kujÄ™!
+
+**Rob Bartlett**
+
+ZaÅ‚oÅ¼yciel i administrator *wtfast*
