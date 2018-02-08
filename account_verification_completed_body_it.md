@@ -1,6 +1,6 @@
 # Grazie per aver verificato il tuo indirizzo email!
 
-Il tuo login *wtfast* è: {0}
+Il tuo login *wtfast* Ã¨: {0}
 
 [**Accedi al tuo Account *wtfast***](https://secure.wtfast.com/member/Account/Login) per fare l'aggiornamento ad un Abbonamento Premium, visualizzare la cronologia del tuo account o reimpostare la password.
 
