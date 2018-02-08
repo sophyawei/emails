@@ -14,4 +14,4 @@
 
 **롭 바틀렛**
 
-*wtfast*의 CEO이자 창립자
+*wtfast*의 CEO이자 창립자 
