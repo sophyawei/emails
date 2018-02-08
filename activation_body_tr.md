@@ -8,7 +8,7 @@ Yukarýdaki baðlantý çalýþmazsa, tüm baðlantýyý tarayýcýnýzýn adres
 
 Etkinleþtirme kodunun 32 harf veya sayý karakteri içerdiðinden emin olun (noktalama iþaretleri veya boþluklar gibi özel karakterler bulunmamalýdýr.)
 
-Yardýma ihtiyacýnýz olursa, [Destek Ekibi]m(http://support.wtfast.com) size her zaman size yardým etmekten mutlu olur.
+Yardýma ihtiyacýnýz olursa, [Destek Ekibi](http://support.wtfast.com) size her zaman size yardým etmekten mutlu olur.
 
 Teþekkürler!
 
