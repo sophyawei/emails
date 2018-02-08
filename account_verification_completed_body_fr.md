@@ -8,4 +8,4 @@ Si vous avez besoin d'aide, veuillez visiter notre [**Centre de Support**](http:
 
 Bonnes parties !
 
--L'Équipe *wtfast*
+-L'Équipe *wtfast* 
