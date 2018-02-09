@@ -1,6 +1,6 @@
 # Thành công!
 
-Thanh toán Thẻ thành viên cao cấp tại wtfast.com đã được hoàn tất.
+Thanh toán thẻ thành viên cao cấp tại wtfast.com đã hoàn tất.
 
 Chi tiết giao dịch của bạn như sau:
 
@@ -9,10 +9,10 @@ Chi tiết giao dịch của bạn như sau:
 * **Loại thẻ thành viên:** {2}
 * **Số thiết bị tối đa:** {3}
 
-Bạn có sẵn **{4} ngày** sở hữu Thẻ thành viên cao cấp
+Bạn có sẵn **{4} ngày** sở hữu thẻ thành viên cao cấp
 
-**Lưu ý:** Phí thanh toán ở quá khứ và hiện tại sẽ không được hoàn lại. Để biết thêm thông tin chi tiết về Quy định Hủy và Hoàn Phí của chúng tôi, [đọc mục trên Trung tâm hỗ trợ](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)
+**Lưu ý**: Các khoản phí hiện tại và quá khứ không được hoàn lại. Để biết thêm thông tin về chính sách hoàn lại tiền và hủy của chúng tôi, [hãy xem bài viết này trên Trung tâm Hỗ trợ của chúng tôi](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
 
-Chân thành cám ơn bạn đã tiếp tục giao dịch, và chúc bạn chơi game vui vẻ!
-
+Cảm ơn giao dịch của bạn và chúc bạn chơi game vui vẻ!
+ 
 -Nhóm *wtfast*
