@@ -14,7 +14,7 @@ Mã kích hoạt phải chứa 32 ký tự chữ hoặc số (không có ký t�
 
 Nếu bạn cần trợ giúp, nhóm hỗ trợ luôn sẵn sàng giúp bạn: [http://support.wtfast.com](http://support.wtfast.com)
 
-Cảm ơn bạn đã lựa chọn wtfast - chúng tôi rất vui được giúp bạn PWN!
+Cảm ơn bạn đã lựa chọn *wtfast* - chúng tôi rất vui được giúp bạn *PWN*!
 
 **Rob Bartlett**
 
