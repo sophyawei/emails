@@ -13,9 +13,9 @@
 
 Вы можете загрузить последнюю версию wtfast здесь: [https://www.wtfast.com/download](https://www.wtfast.com/download)
 
-Для обновления учетки или просмотра своей платежной истории просто [войдите в свою учетку](https://secure.wtfast.com/member/Account/Login). 
+Для обновления подписки или просмотра своей платежной истории просто [войдите в свой аккаунт](https://secure.wtfast.com/member/Account/Login). 
 
-**Примите во внимание**: Текущие и прошлые платежи не возмещаются. Больше информации вы найдете в статье в нашем [Центре поддержки](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+**Внимание**: Текущие и прошлые платежи не возмещаются. За подробной информацией обратитесь к статье в нашем [Центре поддержки](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
 
 Благодарим вас за доверие и желаем веселой игры!
  
