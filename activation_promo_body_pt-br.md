@@ -14,7 +14,7 @@ Verifique se o código de ativação contém 32 caracteres, entre letras ou núm
 
 Caso precise de ajuda, minha equipe de suporte está sempre disposta a ajudar você: [http://support.wtfast.com](http://support.wtfast.com)
 
-Obrigado por escolher o wtfast – ficamos felizes em ajudar você a PWN!
+Obrigado por escolher o *wtfast* – ficamos felizes em ajudar você a *PWN!*
 
 **Rob Bartlett**
 
