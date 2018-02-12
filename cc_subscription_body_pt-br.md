@@ -1,12 +1,22 @@
-# Successo! Seu pagamento foi concluído. Agora, você é um membro premium do *wtfast*!Veja as informações da transação do seu cartão de crédito:
+# Successo! Seu pagamento foi concluÃ­do. 
+
+Agora, vocÃª Ã© um membro premium do *wtfast*!
+
+Veja as informaÃ§Ãµes da transaÃ§Ã£o do seu cartÃ£o de crÃ©dito:
 
 * **Quantia:** $ {0} US$
 * **Tipo de conta:** {1}
 * **Tipo de assinatura:** {2}
-* **Máx. de dispositivos:** {3}Você tem **{4} dias** restantes de assinatura premium disponível.  Você pode baixar a versão mais recente de wtfast aqui: [https://www.wtfast.com/download](https://www.wtfast.com/download)Para atualizar sua conta ou visualizar seu histórico de pagamento, basta [entrar em sua conta](https://secure.wtfast.com/member/Account/Login). 
+* **MÃ¡x. de dispositivos:** {3}
 
-**Observação**: Cobranças atuais e passadas não são reembolsáveis. Para mais informações, veja o artigo em nossa [central de suporte](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+VocÃª tem **{4} dias** restantes de assinatura premium disponÃ­vel.  
 
-Obrigado pela escolha e bons jogos
+VocÃª pode baixar a versÃ£o mais recente de wtfast aqui: [https://www.wtfast.com/download](https://www.wtfast.com/download) 
+
+Para atualizar sua conta ou visualizar seu histÃ³rico de pagamento, basta [entrar em sua conta](https://secure.wtfast.com/member/Account/Login). 
+
+**ObservaÃ§Ã£o**: CobranÃ§as atuais e passadas nÃ£o sÃ£o reembolsÃ¡veis. Para mais informaÃ§Ãµes, veja o artigo em nossa [central de suporte](https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-).
+
+Obrigado pela escolha e bons jogos.
  
 -Equipe *wtfast*
