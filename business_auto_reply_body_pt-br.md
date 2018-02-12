@@ -1,4 +1,4 @@
-﻿# Olá!
+# Olá!
 
 Obrigado pelo seu interesse no *wtfast* – o maior utilitário de otimização de rede do mundo! As perguntas comerciais e de parceiros geralmente recebem uma resposta dentro de 24 horas.
 
