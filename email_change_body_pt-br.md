@@ -1,11 +1,11 @@
-# Mudança de E-mail
+# MudanÃ§a de E-mail
 
 Por favor, clique no link abaixo para verificar o seu novo e-mail:
 
 {0}
 
-Se você não fez esse pedido, nenhuma outra ação é necessária. Você pode ignorar esta mensagem com segurança.
+Se vocÃª nÃ£o fez esse pedido, nenhuma outra aÃ§Ã£o Ã© necessÃ¡ria. VocÃª pode ignorar esta mensagem com seguranÃ§a.
 
-Se você deseja redefinir a sua senha, visite esta página: [https://www.wtfast.com/Account/ForgotPassword](https://www.wtfast.com/Account/ForgotPassword)
+Se vocÃª deseja redefinir a sua senha, visite esta pÃ¡gina: [https://www.wtfast.com/Account/ForgotPassword](https://www.wtfast.com/Account/ForgotPassword)
 
--Equipe *wtfast*
+-Equipe *wtfast* 
