@@ -1,8 +1,9 @@
 # Sucesso!
-Você alterou a sua senha para {0} com sucesso.
 
-Se você fez essa alteração, nenhuma outra ação é necessária e você pode ignorar essa mensagem com segurança.
+VocÃª alterou a sua senha para {0} com sucesso.
 
-Não alterou a sua senha? Entre em contato com a nossa  [**Support Team**](http://support.wtfast.com) para que possamos ter certeza de que mais ninguém está tentando acessar a sua conta [http://support.wtfast.com](http://support.wtfast.com)
+Se vocÃª fez essa alteraÃ§Ã£o, nenhuma outra aÃ§Ã£o Ã© necessÃ¡ria e vocÃª pode ignorar essa mensagem com seguranÃ§a.
+
+NÃ£o alterou a sua senha? Entre em contato com a nossa  [**Support Team**](http://support.wtfast.com) para que possamos ter certeza de que mais ninguÃ©m estÃ¡ tentando acessar a sua conta [http://support.wtfast.com](http://support.wtfast.com)
 
 -Equipe *wtfast*
