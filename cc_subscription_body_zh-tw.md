@@ -1,22 +1,22 @@
-# ¦¨¥\¤F¡I§Aªº¥I´Ú¤w§¹¦¨¡C 
+# æˆåŠŸäº†ï¼æ‚¨çš„ä»˜æ¬¾å·²å®Œæˆã€‚ 
 
-§A²{¦b¬O *wtfast* ªº°ª¯Å·|­û¡I
+æ‚¨ç¾åœ¨æ˜¯ *wtfast* çš„é«˜ç´šæœƒå“¡ï¼
 
-³o¸Ì¦³§A«H¥Î¥d¥æ©öªº¸Ô²Ó¸ê®Æ¡G
+å¦‚ä¸‹æ˜¯æ‚¨ä¿¡ç”¨å¡äº¤æ˜“çš„è©³ç´°è³‡æ–™ï¼š
 
-* **ª÷ÃB¡G** $ {0} ¬ü¤¸
-* **±b¸¹ºØÃş¡G** {1}
-* **·|­ûºØÃş¡G** {2}
-* **³Ì¤j¸Ë¸m¼Æ¡G** {3}
+* **é‡‘é¡ï¼š** $ {0} ç¾å…ƒ
+* **å¸³è™Ÿé¡å‹ï¼š** {1}
+* **æœƒå“¡é¡å‹ï¼š** {2}
+* **æœ€å¤§é›»è…¦æ•¸ï¼š** {3}
 
-§A¥i¥H¨É¥Î **{4} ¤Ñ** ªº°ª¯Å·|­û®É¶¡¡C  
+æ‚¨å¯ä»¥äº«ç”¨ **{4} å¤©** çš„é«˜ç´šæœƒå“¡æ™‚é–“ã€‚ Â 
 
-§A¥i¥H±q³o¸Ì¤U¸ü³Ì·sª©ªº wtfast¡G [https://www.wtfast.com/download](https://www.wtfast.com/download)
+æ‚¨å¯ä»¥å¾é€™è£¡ä¸‹è¼‰æœ€æ–°ç‰ˆçš„ wtfastï¼š [https://www.wtfast.com/download](https://www.wtfast.com/download)
 
-­n§ó·s§Aªº±b¸¹©ÎÀËµø§Aªº¥I´Ú°O¿ı¡A¥u»İ [µn¤J§Aªº±b¸¹](https://secure.wtfast.com/member/Account/Login)¡C 
+è¦æ›´æ–°æ‚¨çš„å¸³è™Ÿæˆ–æª¢è¦–æ‚¨çš„ä»˜æ¬¾è¨˜éŒ„ï¼Œåªéœ€ [ç™»å…¥æ‚¨çš„å¸³è™Ÿ](https://secure.wtfast.com/member/Account/Login)ã€‚ 
 
-**½Ğª`·N**: ¥Ø«e¤Î¹L©¹ªº¦¬¶O§¡¬°¤£¥i°h¶O¡C­Y·Qª¾¹D§ó¦h¸ê°T¡A½Ğ¬İ§Ú­Ì [Support Center] ¤Wªº³o½g¤å³¹(https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)¡C
+**è«‹æ³¨æ„**: ç›®å‰åŠéå¾€çš„æ”¶è²»å‡ç‚ºä¸å¯é€€è²»ã€‚è‹¥æƒ³çŸ¥é“æ›´å¤šè³‡è¨Šï¼Œè«‹çœ‹æˆ‘å€‘ [æ”¯æ´ä¸­å¿ƒ] ä¸Šçš„é€™ç¯‡æ–‡ç« (https://wtfast.zendesk.com/hc/en-us/articles/210389223-Refund-and-Cancellation-Policy-)ã€‚
 
-·PÁÂ§A´fÅU¥Í·N¡A¯¬§A¹CÀ¸´r§Ö¡I
+æ„Ÿè¬æ‚¨æƒ é¡§ç”Ÿæ„ï¼Œç¥æ‚¨éŠæˆ²æ„‰å¿«ï¼
  
-- *wtfast*¹Î¶¤
+- *wtfast* åœ˜éšŠ
