@@ -10,12 +10,12 @@ If you wish to reset your password, visit this page: [https://www.wtfast.com/Acc
 
 -Team *wtfast*
 
-££µç×ÓÓÊÏä±ä¸ü
+ï¼ƒç”µå­é‚®ç®±å˜æ›´
 
-Çëµã»÷ÒÔÏÂÁ´½ÓÑéÖ¤ÄãµÄĞÂµç×ÓÓÊÏä£º{0}
+è¯·ç‚¹å‡»ä»¥ä¸‹é“¾æ¥éªŒè¯ä½ çš„æ–°ç”µå­é‚®ç®±ï¼š{0}
 
-Èç¹ûÄãÃ»ÓĞÌá³ö´ËÉêÇë£¬ÔòÎŞĞè²ÉÈ¡½øÒ»²½ĞĞ¶¯¡£Äã¿ÉÒÔ·ÅĞÄºöÂÔÕâ¸öÏûÏ¢¡£
+å¦‚æœä½ æ²¡æœ‰æå‡ºæ­¤ç”³è¯·ï¼Œåˆ™æ— éœ€é‡‡å–è¿›ä¸€æ­¥è¡ŒåŠ¨ï¼Œä½ å¯ä»¥æ”¾å¿ƒå¿½ç•¥è¿™ä¸ªæ¶ˆæ¯ã€‚
 
-Èç¹ûÄãÏëÖØÖÃÃÜÂë£¬Çë·ÃÎÊÒÔÏÂÍøÒ³£º[https://www.wtfast.com/Account/ForgotPassword](https://www.wtfast.com/Account/ForgotPassword£©
+å¦‚æœä½ æƒ³é‡ç½®å¯†ç ï¼Œè¯·è®¿é—®ä»¥ä¸‹ç½‘é¡µï¼š[https://www.wtfast.com/Account/ForgotPassword](https://www.wtfast.com/Account/ForgotPasswordï¼‰
 
--*wtfast*ÍÅ¶Ó
+-*wtfast*å›¢é˜Ÿ
